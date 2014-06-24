@@ -1,4 +1,4 @@
-sgechter.github.io
-==================
+# sgechter.github.io for training
 
-Repo for training sessions.
+
+Foundations class training session.
